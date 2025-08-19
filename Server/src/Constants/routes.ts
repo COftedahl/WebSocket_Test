@@ -1,0 +1,1 @@
+export const game1Route: string = "/game1";

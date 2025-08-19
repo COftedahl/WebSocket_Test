@@ -1,0 +1,3 @@
+
+Shows how to access ws server in each request
+https://stackoverflow.com/questions/22429744/how-to-setup-route-for-websocket-server-in-express
